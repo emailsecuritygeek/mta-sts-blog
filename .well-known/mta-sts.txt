@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx1.mail.hostpoint.ch
+mx: mx2.mail.hostpoint.ch
+max_age: 604800
