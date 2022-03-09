@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mx1.mail.hostpoint.ch
-mx: mx2.mail.hostpoint.ch
+mx: smtp-de.emailgeek.eu
 max_age: 604800
